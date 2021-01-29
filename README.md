@@ -1,24 +1,21 @@
-# README
+# The Daily Pull
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    The Daily Pull is a website designed to pull a tarot card at random from the classic Rider-Waite deck.
+    The user is able to view the card image, name, meaning, and description.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Technologies Used 
+    - Ruby on Rails
+    - JavaScript
+    - React
+    - HTML
+    - CSS
+    
+## How To Use
+    - Clone Repository
+    - Open in Editor Of Choice
+    - For Backend
+        - rails db:migrate
+        - rails s
+    - For Frontend
+        - npm start
+        
